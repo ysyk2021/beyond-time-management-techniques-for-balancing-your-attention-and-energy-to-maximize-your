@@ -1,5 +1,4 @@
-Chapter 5: Prioritizing Tasks and Goals: Techniques for Setting Priorities Effectively
-======================================================================================
+# Techniques for Setting Priorities Effectively
 
 Effective prioritization is essential for maximizing productivity and achieving goals. In this chapter, we'll explore techniques for setting priorities effectively.
 

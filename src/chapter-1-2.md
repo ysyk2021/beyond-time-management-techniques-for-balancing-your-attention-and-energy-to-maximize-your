@@ -1,4 +1,4 @@
-Introduction: What is Productivity Beyond Time Management?
+What is Productivity Beyond Time Management?
 ==========================================================
 
 Productivity is often associated with time management, but it goes beyond just managing one's time. Productivity involves optimizing one's resources, including attention and energy, to achieve maximum efficiency and effectiveness in completing tasks and achieving goals.

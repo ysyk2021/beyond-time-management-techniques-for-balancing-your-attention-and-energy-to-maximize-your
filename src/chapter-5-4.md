@@ -1,5 +1,4 @@
-Chapter 4: Balancing Mental and Physical Energy: Building a Culture of Sustainability and Resilience
-====================================================================================================
+# Building a Culture of Sustainability and Resilience
 
 Balancing mental and physical energy is essential for maximizing productivity and achieving success. In this chapter, we'll explore how building a culture of sustainability and resilience can support balanced energy levels within organizations.
 

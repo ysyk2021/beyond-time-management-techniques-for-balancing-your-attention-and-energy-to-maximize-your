@@ -1,5 +1,4 @@
-Chapter 6: Delegating Effectively: Techniques for Identifying Tasks That Can Be Delegated
-=========================================================================================
+# Techniques for Identifying Tasks That Can Be Delegated
 
 Delegating tasks effectively is essential for maximizing productivity and achieving success. In this chapter, we'll explore techniques for identifying tasks that can be delegated.
 
