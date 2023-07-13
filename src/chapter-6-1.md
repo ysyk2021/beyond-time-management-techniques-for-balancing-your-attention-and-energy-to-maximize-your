@@ -1,4 +1,4 @@
-Chapter 5: Recognizing the Importance of Prioritizing Tasks and Goals in Productivity
+Recognizing the Importance of Prioritizing Tasks and Goals in Productivity
 =====================================================================================
 
 Productivity is essential for achieving success in both personal and professional endeavors. To maximize productivity, it's important to recognize the role that prioritizing tasks and goals plays in this process.

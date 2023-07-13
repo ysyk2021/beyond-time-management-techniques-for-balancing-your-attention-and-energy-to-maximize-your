@@ -1,4 +1,4 @@
-Conclusion: Recap of Key Takeaways
+Recap of Key Takeaways
 ==================================
 
 In this book, we have explored various techniques for balancing attention and energy to maximize productivity. We discussed the power of attention, managing distractions and interruptions, developing self-awareness, and building trust in the process of attention-balancing. The following are some key takeaways from this book:
