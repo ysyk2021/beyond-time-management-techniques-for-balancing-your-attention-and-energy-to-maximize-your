@@ -1,5 +1,3 @@
-Chapter 2: Managing Distractions and Interruptions
-==================================================
 
 In this chapter, we will discuss the importance of managing distractions and interruptions in productivity. We will explore techniques for minimizing distractions and interruptions effectively, address common challenges in doing so, and discuss how to build a culture of focus and concentration.
 

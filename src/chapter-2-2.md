@@ -1,4 +1,3 @@
-# Identifying Different Components of Attention
 
 In this chapter, we will discuss the different components of attention and their importance in understanding the power of attention. Attention can be divided into different components based on how it functions. By understanding these components, individuals and organizations can develop effective strategies for managing their cognitive resources and optimizing productivity.
 

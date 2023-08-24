@@ -1,4 +1,3 @@
-# Techniques for Identifying Tasks That Can Be Delegated
 
 In order to maximize productivity, it is essential to identify tasks that can be delegated effectively. This chapter will explore techniques for recognizing and selecting tasks that can be entrusted to others, allowing you to focus your attention and energy on higher-value activities.
 

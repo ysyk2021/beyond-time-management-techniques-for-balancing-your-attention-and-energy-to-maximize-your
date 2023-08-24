@@ -1,5 +1,3 @@
-Chapter 5: Prioritizing Tasks and Goals
-=======================================
 
 Prioritizing tasks and goals is essential for maximizing productivity and achieving success. In this chapter, we'll explore the importance of prioritizing tasks and goals in productivity, techniques for setting priorities effectively, developing effective goal-setting strategies, and building a culture of clarity and purpose.
 

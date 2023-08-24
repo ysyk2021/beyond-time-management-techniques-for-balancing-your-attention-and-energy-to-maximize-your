@@ -1,5 +1,3 @@
-Chapter 4: Balancing Mental and Physical Energy
-===============================================
 
 Balancing mental and physical energy is essential for maximizing productivity and achieving success. In this chapter, we'll explore the importance of balancing mental and physical energy in productivity, techniques for managing mental and physical energy levels effectively, addressing common obstacles and challenges in balancing energy levels, and building a culture of sustainability and resilience.
 

@@ -1,5 +1,3 @@
-Introduction
-============
 
 In today's fast-paced world, productivity has become synonymous with success. However, traditional time management techniques may not be enough to keep up with the demands of modern life. Balancing attention and energy is essential in optimizing productivity and achieving long-term success.
 

@@ -1,5 +1,3 @@
-Chapter 6: Delegating Effectively
-=================================
 
 Delegating effectively is essential for maximizing productivity and achieving success. In this chapter, we'll explore the importance of delegating effectively in productivity, techniques for identifying tasks that can be delegated, developing effective delegation strategies, and building a culture of trust and collaboration.
 

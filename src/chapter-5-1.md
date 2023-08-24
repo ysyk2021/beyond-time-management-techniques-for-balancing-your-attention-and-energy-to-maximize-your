@@ -1,4 +1,3 @@
-# The Importance of Balancing Mental and Physical Energy in Productivity
 
 In this chapter, we will explore the significance of maintaining equilibrium between these two vital components and how it can maximize productivity.
 

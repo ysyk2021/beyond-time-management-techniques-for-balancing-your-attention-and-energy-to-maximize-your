@@ -1,4 +1,3 @@
-# Overview of Attention Theory
 
 In this chapter, we will discuss attention theory and its importance in understanding the power of attention. Attention theory is a broad field that encompasses the study of how we focus our cognitive resources to process information. It includes various models and theories that explain how attention works and how it impacts our behavior and perception.
 
