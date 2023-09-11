@@ -1,5 +1,4 @@
-Chapter: Identifying Different Components of Attention
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the various components that contribute to attention and their role in balancing attention and energy for optimal productivity. Understanding these different components allows individuals to pinpoint specific areas for improvement and implement targeted strategies.
 

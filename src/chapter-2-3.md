@@ -1,5 +1,4 @@
-Chapter: Developing Self-Awareness as an Attentive Person
-=========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the importance of self-awareness in developing attentiveness and maximizing productivity. We delve into various aspects of self-awareness and provide practical strategies to cultivate self-awareness for improved attention management.
 

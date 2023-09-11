@@ -1,5 +1,4 @@
-Chapter: Overview of Attention Theory
-=====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we provide an overview of attention theory as it relates to maximizing productivity and balancing attention and energy. Understanding the principles of attention can empower individuals to optimize their focus, manage distractions, and enhance overall productivity.
 
